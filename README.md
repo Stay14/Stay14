@@ -19,4 +19,4 @@
 
 ## Repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Stay14&repo=StayNet)](https://github.com/Stay14/StayNet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Stay14&repo=StayNet&theme=dark)](https://github.com/Stay14/StayNet)
