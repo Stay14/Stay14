@@ -3,6 +3,8 @@
 
 <p>Welcome to my page! </br> I'm Stay, a developer from Spain</p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stay14&show_icons=true)
+
 ### Things I code with
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
