@@ -6,7 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stay14&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stay14&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Stay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Stay&theme=dark&compact=true)](https://github.com/Stay14/Stay14)
+[![Stay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Stay&theme=dark&layout=compact)](https://github.com/Stay14/Stay14)
 ### Things I code with
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
