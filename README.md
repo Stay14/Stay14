@@ -2,7 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/648692c4-0b15-4970-9594-45ec1ecc1d05.svg)](https://wakatime.com/@648692c4-0b15-4970-9594-45ec1ecc1d05)
 
-<p>Welcome to my page! </br> I'm Stay, a developer from Spain</p>
+<p>Welcome to my page! </br> I'm Stay, a developer from Spain.</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stay14&show_icons=true&theme=dark)
 
