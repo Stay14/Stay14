@@ -15,3 +15,8 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
 
+
+
+## Repos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Stay12&repo=StayNet)](https://github.com/Stay12/StayNet)
