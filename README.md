@@ -4,6 +4,8 @@
 <p>Welcome to my page! </br> I'm Stay, a developer from Spain</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stay14&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stay14&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Things I code with
 
