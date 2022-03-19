@@ -4,9 +4,9 @@
 
 <p>Welcome to my page! </br> I'm Stay, a developer from Spain.</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stay14&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stay1444&show_icons=true&theme=dark)
 
-[![Stay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Stay&theme=dark&layout=compact)](https://github.com/Stay14/Stay14)
+[![Stay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Stay&theme=dark&layout=compact)](https://github.com/Stay1444/Stay1444)
 ### Things I code with
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -20,7 +20,3 @@
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
 
 
-
-## Repos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Stay14&repo=StayNet&theme=dark)](https://github.com/Stay14/StayNet)
