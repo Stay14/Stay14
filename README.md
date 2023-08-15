@@ -4,4 +4,3 @@
 
 <p>Welcome to my page! </br> I'm Stay, a developer from Spain.</p>
 
-[![Stay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Stay&theme=dark&layout=compact)](https://github.com/Stay1444/Stay1444)
